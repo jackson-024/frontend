@@ -1,0 +1,96 @@
+#email{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+  }
+  #h2{
+    background-color: #db8a11;
+    padding:30px;
+    text-align:center;
+    max-width:100%;
+  }
+  #button{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+  }
+  #pass{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+  }
+  #form{
+    text-align:center;
+    display:inline-block;
+    position:center;
+    background-color:#db8a11;
+  }
+  .content {
+    max-width:500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+  }
+
+  #email{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+  }
+#fname{
+      padding: 10px;
+       margin: 10px;
+       box-sizing: border-box;
+}
+#mname{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+}
+#dob{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+}
+#lname{
+        padding: 10px;
+          margin: 10px;
+          box-sizing: border-box;
+}
+#header{
+    background-color: #db8a11;
+}
+#h2{
+    background-color: #db8a11;
+    padding:30px;
+    text-align:center;
+    max-width:100%;
+}
+#pnumber{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+}
+
+#button{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+}
+#pass{
+    padding: 10px;
+      margin: 10px;
+      box-sizing: border-box;
+}
+#form{
+    text-align:center;
+    display:inline-block;
+    position:center;
+    background-color:#db8a11;
+  }
+ .content {
+    max-width:500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+  }
